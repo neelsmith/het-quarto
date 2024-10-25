@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 6801da38-0939-4ebd-b98e-c6de4043e1ad
+      url: 'https://neelsmith.quarto.pub/hmt'

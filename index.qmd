@@ -1,0 +1,12 @@
+---
+engine: julia
+---
+
+# The Homer Multitext project
+
+> *A personal site about how I work with the Homer Multitext projet's digital archive*.
+
+
+::: {.callout-caution title="TBA"}
+Look for first material to begin appearing here in early 2025.
+:::
