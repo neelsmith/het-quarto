@@ -1,0 +1,19 @@
+---
+engine: julia
+---
+
+# Orientation to the HMT archive
+
+::: {.callout-caution title="Content TBA"}
+
+- how releases are built
+
+- the github repo
+
+two sections matter:
+
+- the published releases (CEX format)
+- the archive (source data from which releases are built)
+
+
+:::

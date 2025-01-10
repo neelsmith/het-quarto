@@ -36,5 +36,7 @@ website:
     - title: "Home"
       contents:
         - index.qmd               
- 
-
+    - title: "The Archive"
+      contents:
+        - archive/index.qmd
+        - archive/orientation/index.qmd
