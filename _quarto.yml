@@ -17,7 +17,12 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      
+      - text: "The Archive"
+        file: archive/index.qmd 
+      - text: "Digital images"
+        file: images/index.qmd   
+      - text: "News"
+        file: news.qmd                     
     right:   
       - icon: person-circle
         menu:

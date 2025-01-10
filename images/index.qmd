@@ -1,0 +1,11 @@
+---
+engine: julia
+---
+
+# Binary image data
+
+Overview:
+
+- photography in Venice (2007)
+- photography in the Escorial (2010)
+- other sources for digital images

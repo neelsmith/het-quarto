@@ -7,6 +7,5 @@ engine: julia
 > *A personal site about how I work with the Homer Multitext projet's digital archive*.
 
 
-::: {.callout-caution title="TBA"}
-Look for first material to begin appearing here in early 2025.
-:::
+- orientation to the [github archive](./archive/)
+- binary image data
