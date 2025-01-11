@@ -1,0 +1,14 @@
+---
+engine: julia
+---
+
+# Published data sets
+
+::: {.callout-caution title="Content TBA" }
+
+- data releases in a single file in CEX format
+- published in `releases-cex` directory of github repository
+
+- Selected information about images and manuscript pages duplicated in IIIF manifests
+- in `iiif` directory of github repository
+:::

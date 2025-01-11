@@ -7,7 +7,7 @@ engine: julia
 Overview:
 
 - original photography from the HMT
-- other sources for digital images
+- other sources for digital images (TBA)
 
 
 
@@ -29,3 +29,9 @@ The images in this directory were made possible by the kind cooperation and perm
 
 - [Escorial Ω 1.12](http://amphoreus.hpcc.uh.edu/hmt/archive-dl/E4) (513 = Allen E4)
 The images in this directory were made possible by the kind cooperation and permission of the Real Monasterio de San Lorenzo de El Escoria, José Luis del Valle Merino, O.S.A., Director. These derivative images are (c) 2010, The University of Kentucky, Center for Visualization and Virtual Environments. Licensed under the Creative Commons Non-Commerical, Attribution, Share-Alike, Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+
+::: {.callout-caution title="Section TBA"}
+
+- photography of Homeric MSS from other sourcs
+
+:::

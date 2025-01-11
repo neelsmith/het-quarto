@@ -17,6 +17,8 @@ website:
     left:
       - text: "Home"
         file: index.qmd
+      - text: "Published data sets"
+        file: publication/index.qmd         
       - text: "The Archive"
         file: archive/index.qmd 
       - text: "Digital images"
@@ -26,10 +28,8 @@ website:
     right:   
       - icon: person-circle
         menu:
-          - text: "About me"
+          - text: "Neel Smith: digital scholarship"
             href: https://neelsmith.quarto.pub
-          - text: "More of my digital scholarship"
-            href: https://neelsmith.quarto.pub/digschol/
         aria-label: "More of my work"  
 
   sidebar:

@@ -4,18 +4,24 @@ engine: julia
 
 # The Homer Multitext project
 
-> *A personal site about how I work with the Homer Multitext projet's digital archive*.
+> *A purely personal site about how I work with the Homer Multitext project's digital archive*.
 
 
 
-## Orientation: the data sources
+The Homer Multitext project has been the main focus of my digital scholarship in the twenty-first century. I'm continuing to contribute to the project since being promoted to Professor Emeritus, and am using this site to 
+present some of my ongoing work.
+
+## Published data sets
+
+- [published releases](./publication/) of HMT data sets
+
+## The data sources
 
 - the [github archive](./archive/)
 - [binary image data](./images/)
 
 
-## Orientation: Julia code
-
+## Julia code
 
 - the CITE architecture
 - the `HMTArchive.jl` package
