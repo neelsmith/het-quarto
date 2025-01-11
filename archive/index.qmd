@@ -2,6 +2,6 @@
 engine: julia
 ---
 
-# The Archive
+# The HMT Archive
 
 - [orientation to the HMT archive](./orientation/)
