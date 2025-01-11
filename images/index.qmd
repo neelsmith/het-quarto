@@ -6,6 +6,26 @@ engine: julia
 
 Overview:
 
-- photography in Venice (2007)
-- photography in the Escorial (2010)
+- original photography from the HMT
 - other sources for digital images
+
+
+
+## Original photography from the HMT: archival datasets
+
+The Homer Multitext project photographed manuscripts of the *Iliad* with scholia in the Marciana Library in Venice (2007) and in the Escorial Monastery (2010). The full digital images with accompanying md5 checksums are available in `.tif` format from the following links:
+
+- [Venetus A](http://amphoreus.hpcc.uh.edu/hmt/archive-dl/VenetusA) (Marciana 454 = 822)
+All images in this directory are derived from originals that are (c) 2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative images are (c) 2010, Center for Hellenic Studies. All original and derivative images are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
+
+- [Venetus B](http://amphoreus.hpcc.uh.edu/hmt/archive-dl/VenetusB) (Marciana 453 = 821)
+All images in this directory are derived from originals that are (c) 2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative images are (c) 2010, Center for Hellenic Studies. All original and derivative images are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
+
+- [Marciana 458](http://amphoreus.hpcc.uh.edu/hmt/archive-dl/U4) (= 841)
+All images in this directory are derived from originals that are (c) 2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative images are (c) 2010, Center for Hellenic Studies. All original and derivative images are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
+
+- [Escorial Υ 1.1](http://amphoreus.hpcc.uh.edu/hmt/archive-dl/E3) (294 = Allen E3)
+The images in this directory were made possible by the kind cooperation and permission of the Real Monasterio de San Lorenzo de El Escoria, José Luis del Valle Merino, O.S.A., Director. These derivative images are (c) 2010, The University of Kentucky, Center for Visualization and Virtual Environments. Licensed under the Creative Commons Non-Commerical, Attribution, Share-Alike, Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+
+- [Escorial Ω 1.12](http://amphoreus.hpcc.uh.edu/hmt/archive-dl/E4) (513 = Allen E4)
+The images in this directory were made possible by the kind cooperation and permission of the Real Monasterio de San Lorenzo de El Escoria, José Luis del Valle Merino, O.S.A., Director. These derivative images are (c) 2010, The University of Kentucky, Center for Visualization and Virtual Environments. Licensed under the Creative Commons Non-Commerical, Attribution, Share-Alike, Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.

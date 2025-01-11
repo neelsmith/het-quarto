@@ -7,5 +7,15 @@ engine: julia
 > *A personal site about how I work with the Homer Multitext projet's digital archive*.
 
 
-- orientation to the [github archive](./archive/)
-- binary image data
+
+## Orientation: the data sources
+
+- the [github archive](./archive/)
+- [binary image data](./images/)
+
+
+## Orientation: Julia code
+
+
+- the CITE architecture
+- the `HMTArchive.jl` package

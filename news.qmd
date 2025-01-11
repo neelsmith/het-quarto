@@ -10,7 +10,7 @@ I’m posting news about my work on the HMT project to [my blog](https://neelsmi
 - follow the [blog's RSS feed <i class="bi bi-rss"></i>](https://neelsmith.quarto.pub/updates.xml)
 
 
-I'm posting announcements of updates to the HMT archive on a separate page with the tag `hmt`:
+I'm posting announcements of updates to the HMT archive and the `HmtArchive` Julia package on a separate page with the tag `hmt`:
 
 - see a [list of tagged announcements](https://neelsmith.quarto.pub/updates.html#category=iiif)
 - follow the RSS feed for update announcements <i class="bi bi-rss"></i>](https://neelsmith.quarto.pub/updates.xml)
