@@ -11,9 +11,10 @@ engine: julia
 The Homer Multitext project has been the main focus of my digital scholarship in the twenty-first century. I'm continuing to contribute to the project since being promoted to Professor Emeritus, and am using this site to 
 present some of my ongoing work.
 
-## Published data sets
+## Published data
 
-- [published releases](./publication/) of HMT data sets
+- [published releases](./publication/datasets/) of HMT data sets
+- [IIIF manifests](./publication/iiif/)
 
 ## The data sources
 
